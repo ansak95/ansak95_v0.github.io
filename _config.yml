@@ -1,11 +1,19 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Anass Akrim # your name (or website title) here
+logo: "/images/PhotoId.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br><br> ### 👋 Hi there, my name is Anass Akrim !
+  I am actually a **3rd year PhD Student** in Applied Mathematics and Predictive Maintenance at Institut Clément Ader and the Complex Systems Engineering Department (DISC) of ISAE-SUPAERO, Toulouse, France. My thesis is entitled : "Prediction of the remaining useful life of aircraft components with deep learning methods"
+
+Currently, my research focuses in the fields of Prognostics and Health Management (PHM), Artificial Intelligence and Deep Learning/Machine Learning.
+
+**🚀 I'm interested :**
+
+- Time Series Forecasting/Computer Vision/NLP
+- Anomaly Detection/Cybersecurity/Blockchains
+- Transfer Learning/Self-Supervised Learning/Interpretability/Uncertainty Quantification
+---
+ 
+  <a href="https://www.linkedin.com/in/anass-akrim/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
